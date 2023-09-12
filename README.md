@@ -2,6 +2,8 @@
 
 Tem como objetivo praticar javaScript. 
 
+codigo aberto e disponível para contribuições. 
+
 ![image](https://github.com/iamalissontomazelli/cronometro-js/assets/105504791/f455c656-027c-43a0-8016-97acbafe1f93)
 
 
